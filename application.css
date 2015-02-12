@@ -1,0 +1,14 @@
+img {
+  margin: 2px;
+  border: 1px solid #000000;
+  border-radius: 2px;
+  max-width: 18%; 
+}
+
+#picture-frame {
+  margin: 5%;
+}
+
+h1, h3, div {
+  text-align: center;
+}
